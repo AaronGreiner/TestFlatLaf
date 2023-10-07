@@ -7,5 +7,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="flatlaf-3.2.1" level="project" />
+    <orderEntry type="library" name="flatlaf-swingx-3.2.1" level="project" />
+    <orderEntry type="library" name="swingx-all-1.6.5-1" level="project" />
+    <orderEntry type="library" name="flatlaf-extras-3.2.1" level="project" />
+    <orderEntry type="library" name="jsvg-1.2.0" level="project" />
   </component>
 </module>
